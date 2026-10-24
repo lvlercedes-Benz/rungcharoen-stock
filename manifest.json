@@ -1,0 +1,10 @@
+{
+  "name": "รุ่งเจริญฮาร์ดแวร์ เช็คสต็อก",
+  "short_name": "เช็คสต็อก",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3F1EF",
+  "theme_color": "#E4572E",
+  "lang": "th",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}
